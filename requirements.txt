@@ -1,0 +1,4 @@
+functions-framework==3.*
+feedparser==6.*
+google-genai>=1.0
+requests==2.*
